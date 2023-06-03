@@ -16,4 +16,8 @@ To run this project, you must have the following installed on your computer: Int
 
 # Build Instructions
 Clone the repository to your local machine using <br>
-git clone 
+git clone  https://github.com/RomanShtoika/Lab_Work_01
+
+# Results
+
+Task_1: <br>
